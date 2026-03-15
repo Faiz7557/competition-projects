@@ -5,8 +5,8 @@
 **Kumpulan karya kompetisi Data Science, Visualisasi Data, dan Infografis**  
 *Tingkat Nasional & Internasional*
 
-![Competitions](https://img.shields.io/badge/Total%20Competitions-14-blue?style=for-the-badge)
-![Wins](https://img.shields.io/badge/Podium%20Finishes-10-gold?style=for-the-badge&color=FFD700)
+![Competitions](https://img.shields.io/badge/Total%20Competitions-30-blue?style=for-the-badge)
+![Wins](https://img.shields.io/badge/Podium%20Finishes-9-gold?style=for-the-badge&color=FFD700)
 ![Level](https://img.shields.io/badge/Level-National%20%26%20International-red?style=for-the-badge)
 
 </div>
