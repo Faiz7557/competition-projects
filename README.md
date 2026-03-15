@@ -19,17 +19,17 @@
 |:-:|-----------|----------|---------------|:-------:|:-----:|
 | 01 | [**Rasio 9.0 University Infographic Competition**](./Rasio) | 📈🎨 Statistic Infographic | Universitas Padjajaran | 🌏 Internasional | 🥇 1st Place |
 | 02 | [**Poisson Statistics Infographic Competition**](./Poisson) | 📊 Data Visualization | STIS | 🌏 International | ⭐ Honorable Mention |
-| 03 | [**Hasanuddin Statistics Events I**](./hse-1) | 📈🎨 Statistic Infographic | Universitas Hasanuddin | 🇮🇩 Nasional | 🥇 1st Place |
-| 04 | [**Data Visualization ACW Stan**](./acw-stan) | 📈🎨 Statistic Infographic | PKN STAN | 🇮🇩 Nasional | 🥇 1st Place |
-| 05 | [**Hi-Tech Data Visualization 7**](./Hitech) | 📈🎨 Statistic Infographic | Politeknik Caltex Riau | 🇮🇩 Nasional | 🥇 1st Place |
-| 06 | [**Visual Quest Airnology 3.0**](./Airnology) | 📈🎨 Statistic Infographic | Universitas Airlangga | 🇮🇩 Nasional | 🥈 2nd Place |
-| 07 | [**PsyAcc 2.0 Psychology Competition**](./PsyAcc) | 🎨 Psychology Infographic | Universitas Sumatra Utara | 🇮🇩 Nasional | 🥈 2nd Place |
-| 08 | [**IoT Tech — Blue Tech Fest**](./bluetechfest-iot) | ⚙️ IoT | Universitas Telkom | 🇮🇩 Nasional | 🥉 3rd Place |
-| 09 | [**Nacoesta Data Visualization**](./Nacoesta) | 📈🎨 Statistic Infographic | Universitas Muhammadiyah Solo | 🇮🇩 Nasional | 🥉 3rd Place |
-| 10 | [**SSF SSIC**](./SSF) | 📈🎨 Statistic Infographic | Universitas Negeri Sebelas Maret | 🇮🇩 Nasional | 🥉 3rd Place |
-| 11 | [**Falcon x Qatar Airways AI Infographic**](./Falcon) | 🤖🎨 Machine Learning x Infographic | UPH x Qatar Airways |  🇮🇩 Nasional | ⭐ Finalist |
-| 12 | [**Shine Machine Learning Competition**](./Shine) | 🤖 Machine Learning | Universitas Binus |  🇮🇩 Nasional | ⭐ Top 10 |
-| 13 | [**Dokter Data International Competition**](./Dokter-Data) | 🤖 Machine Learning | Universitas Diponegoro | 🌏 Internasional | ⭐ Top 10 |
+| 03 | [**Dokter Data International Competition**](./Dokter-Data) | 🤖 Machine Learning | Universitas Diponegoro | 🌏 Internasional | ⭐ Top 10 |
+| 04 | [**Hasanuddin Statistics Events I**](./hse-1) | 📈🎨 Statistic Infographic | Universitas Hasanuddin | 🇮🇩 Nasional | 🥇 1st Place |
+| 05 | [**Data Visualization ACW Stan**](./acw-stan) | 📈🎨 Statistic Infographic | PKN STAN | 🇮🇩 Nasional | 🥇 1st Place |
+| 06 | [**Hi-Tech Data Visualization 7**](./Hitech) | 📈🎨 Statistic Infographic | Politeknik Caltex Riau | 🇮🇩 Nasional | 🥇 1st Place |
+| 07 | [**Visual Quest Airnology 3.0**](./Airnology) | 📈🎨 Statistic Infographic | Universitas Airlangga | 🇮🇩 Nasional | 🥈 2nd Place |
+| 08 | [**PsyAcc 2.0 Psychology Competition**](./PsyAcc) | 🎨 Psychology Infographic | Universitas Sumatra Utara | 🇮🇩 Nasional | 🥈 2nd Place |
+| 09 | [**IoT Tech — Blue Tech Fest**](./bluetechfest-iot) | ⚙️ IoT | Universitas Telkom | 🇮🇩 Nasional | 🥉 3rd Place |
+| 10 | [**Nacoesta Data Visualization**](./Nacoesta) | 📈🎨 Statistic Infographic | Universitas Muhammadiyah Solo | 🇮🇩 Nasional | 🥉 3rd Place |
+| 11 | [**SSF SSIC**](./SSF) | 📈🎨 Statistic Infographic | Universitas Negeri Sebelas Maret | 🇮🇩 Nasional | 🥉 3rd Place |
+| 12 | [**Falcon x Qatar Airways AI Infographic**](./Falcon) | 🤖🎨 Machine Learning x Infographic | UPH x Qatar Airways |  🇮🇩 Nasional | ⭐ Finalist |
+| 13 | [**Shine Machine Learning Competition**](./Shine) | 🤖 Machine Learning | Universitas Binus |  🇮🇩 Nasional | ⭐ Top 10 |
 | 14 | [**Airlangga Statistics Competition**](./airlangga-stats) | 📈🎨 Statistic Infographic | Universitas Airlangga | 🇮🇩 Nasional | ⭐ Top 15 |
 | 15 | [**ANAVA — Kompetisi Infografis Statistik UGM**](./anava-ugm) | 📈🎨 Statistic Infographic | Universitas Gadjah Mada | 🇮🇩 Nasional | ⭐ Top 15 |
 | 16 | [**Kaggle Clash 3**](./kaggle-clash-3) | 🤖 Machine Learning | IRIS Unair | 🏠 Internal IRIS | 🥇 1st Place |
