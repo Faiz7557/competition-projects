@@ -1,21 +1,21 @@
-# Hi-Tech Data Visualization Competition 7
-🥇 **1st Place — National Level**
+# 🏆 Competition Projects
 
-## Overview
-Kompetisi visualisasi data tingkat nasional.  
-Tema: **"Ketika Rumah Tak Lagi Ramah"**
+Kumpulan project dan karya dari kompetisi data science, 
+visualisasi data, dan infografis tingkat nasional & internasional.
 
-## Result
-![Visualization](visualization_ketika-rumah-tak-lagi-ramah.jpg)
+## Projects
 
-## Files
-- `visualization_ketika-rumah-tak-lagi-ramah.jpg` — Karya utama
-- `dataset_universitas_airlangga.xlsx` — Dataset yang digunakan
-- `submission_hitech7.pdf` — File submission
-- `guidebook_hitech7.pdf` — Guidebook kompetisi
+| Kompetisi | Kategori | Hasil |
+|-----------|----------|-------|
+| [Hi-Tech Data Visualization 7](./hitech-dataviz-7) | Data Visualization | 🥇 1st Place |
+| [Kaggle Clash 3](./kaggle-clash-3) | Machine Learning | 🥇 1st Place |
+| [Rasio 9.0 Infographic](./rasio9-infographic) | Infographic | 🥇 1st Place |
+| [Visual Quest — Airnology](./airnology-visualquest) | Data Visualization | 🥈 2nd Place |
+| [PsyAcc 2.0](./psyacc-infographic) | Infographic | 🥈 2nd Place |
+| [Nacoesta Data Visualization](./nacoesta-dataviz) | Data Visualization | 🥉 3rd Place |
+| [SSF SSIC](./ssf-ssic) | Data Science | 🥉 3rd Place |
 
-## Tools Used
-- [isi tools yang kamu pakai, misal: Figma, Canva, Tableau]
-
-## Team
-- Faiz Iqbal Itishom
+## Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
