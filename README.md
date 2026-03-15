@@ -7,13 +7,13 @@ visualisasi data, dan infografis tingkat nasional & internasional.
 
 | Kompetisi | Kategori | Hasil |
 |-----------|----------|-------|
-| [Hi-Tech Data Visualization 7](./hitech-dataviz-7) | Data Visualization | 🥇 1st Place |
+| [Hi-Tech Data Visualization 7](./Hitech) | Data Visualization | 🥇 1st Place |
 | [Kaggle Clash 3](./kaggle-clash-3) | Machine Learning | 🥇 1st Place |
-| [Rasio 9.0 Infographic](./rasio9-infographic) | Infographic | 🥇 1st Place |
+| [Rasio 9.0 Infographic](./Rasio) | Infographic | 🥇 1st Place |
 | [Visual Quest — Airnology](./airnology-visualquest) | Data Visualization | 🥈 2nd Place |
-| [PsyAcc 2.0](./psyacc-infographic) | Infographic | 🥈 2nd Place |
-| [Nacoesta Data Visualization](./nacoesta-dataviz) | Data Visualization | 🥉 3rd Place |
-| [SSF SSIC](./ssf-ssic) | Data Science | 🥉 3rd Place |
+| [PsyAcc 2.0](./PsyAcc) | Infographic | 🥈 2nd Place |
+| [Nacoesta Data Visualization](./Nacoesta) | Data Visualization | 🥉 3rd Place |
+| [SSF SSIC](./SSF) | Data Vizualization | 🥉 3rd Place |
 
 ## Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
