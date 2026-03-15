@@ -25,13 +25,13 @@
 | 06 | [**Hi-Tech Data Visualization 7**](./Hitech) | 📈🎨 Statistic Infographic | Politeknik Caltex Riau | 🇮🇩 Nasional | 🥇 1st Place |
 | 07 | [**Visual Quest Airnology 3.0**](./Airnology) | 📈🎨 Statistic Infographic | Universitas Airlangga | 🇮🇩 Nasional | 🥈 2nd Place |
 | 08 | [**PsyAcc 2.0 Psychology Competition**](./PsyAcc) | 🎨 Psychology Infographic | Universitas Sumatra Utara | 🇮🇩 Nasional | 🥈 2nd Place |
-| 09 | [**IoT Tech — Blue Tech Fest**](./bluetechfest-iot) | ⚙️ IoT | Universitas Telkom | 🇮🇩 Nasional | 🥉 3rd Place |
+| 09 | [**IoT Tech Blue Tech Fest**](./bluetechfest-iot) | ⚙️ IoT | Universitas Telkom | 🇮🇩 Nasional | 🥉 3rd Place |
 | 10 | [**Nacoesta Data Visualization**](./Nacoesta) | 📈🎨 Statistic Infographic | Universitas Muhammadiyah Solo | 🇮🇩 Nasional | 🥉 3rd Place |
 | 11 | [**SSF SSIC**](./SSF) | 📈🎨 Statistic Infographic | Universitas Negeri Sebelas Maret | 🇮🇩 Nasional | 🥉 3rd Place |
 | 12 | [**Falcon x Qatar Airways AI Infographic**](./Falcon) | 🤖🎨 Machine Learning x Infographic | UPH x Qatar Airways |  🇮🇩 Nasional | ⭐ Finalist |
 | 13 | [**Shine Machine Learning Competition**](./Shine) | 🤖 Machine Learning | Universitas Binus |  🇮🇩 Nasional | ⭐ Top 10 |
 | 14 | [**Airlangga Statistics Competition**](./airlangga-stats) | 📈🎨 Statistic Infographic | Universitas Airlangga | 🇮🇩 Nasional | ⭐ Top 15 |
-| 15 | [**ANAVA — Kompetisi Infografis Statistik UGM**](./anava-ugm) | 📈🎨 Statistic Infographic | Universitas Gadjah Mada | 🇮🇩 Nasional | ⭐ Top 15 |
+| 15 | [**Kompetisi Infografis Statistik ANAVA UGM**](./anava-ugm) | 📈🎨 Statistic Infographic | Universitas Gadjah Mada | 🇮🇩 Nasional | ⭐ Top 15 |
 | 16 | [**Kaggle Clash 3**](./kaggle-clash-3) | 🤖 Machine Learning | IRIS Unair | 🏠 Internal IRIS | 🥇 1st Place |
 
 ---
@@ -62,7 +62,7 @@
 
 ## 📊 Stats
 ```
-Total Competitions : 25+
+Total Competitions : 30+
 Podium Finishes    :  9  (4× Gold · 2× Silver · 3× Bronze)
 Finalist           :   6  (Top 10 – Top 15)
 Categories         :   5  (Data Visualization · Machine Learning · Infographic · Statistics · IoT)
